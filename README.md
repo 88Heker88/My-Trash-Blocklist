@@ -1,12 +1,12 @@
-# Youtube Trash Blocker
+# Youtube Trash Blocklist
 
-## Element Blocker list:
+## Element Blocklist:
 
-### 1. Youtube "Explore More" section (youtube search distraction)
+### 1. Hide Youtube "Explore More" section (youtube search distraction):
 ```
 youtube.com##ytd-shelf-renderer #dismissible
 ```
-### 2. Youtube "Related Videos" sidebar (youtube video distraction)
+### 2. Hide Youtube "Related Videos" sidebar (youtube video distraction):
 ```
 youtube.com##ytd-watch-flexy #secondary
 ```
