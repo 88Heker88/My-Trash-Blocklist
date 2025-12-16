@@ -1,0 +1,5 @@
+! Title: YouTube Trash Blocklist
+! Version: 1.0.3
+
+youtube.com##ytd-shelf-renderer #dismissible
+youtube.com##ytd-watch-flexy #secondary
