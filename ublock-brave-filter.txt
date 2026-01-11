@@ -21,3 +21,5 @@ mangadex.org##.md\:flex-grow.rounded-lg.drop-shadow.rounded.custom-opacity.relat
 gemini.google.com##.upsell-label.gds-label-m.ng-tns-c3813137085-2.ng-trigger.ng-trigger-labelEnterLeaveAnimation.ng-star-inserted
 gemini.google.com##.ng-tns-c3813137085-2.gds-icon-s.ng-star-inserted
 gemini.google.com##.mdc-button.mat-mdc-button-base.ng-tns-c3813137085-2.mdc-button--unelevated.mat-mdc-unelevated-button.gds-upsell-button.mat-unthemed
+mega.nz##section.mega-dialog-container
+mega.nz##.main-blur-block:style(display:none !important;)
