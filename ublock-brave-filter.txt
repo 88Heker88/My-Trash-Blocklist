@@ -9,7 +9,7 @@ youtube.com##ytd-watch-next-secondary-results-renderer
 youtube.com##ytd-feed-filter-chip-bar-renderer
 open.spotify.com##.Button-sc-1dqy6lx-0.dzIYeQ
 open.spotify.com##button[data-testid="upgrade-button"]
-web.whatsapp.com##span:has-text(Download WhatsApp for Windows):upward(2)
+web.whatsapp.com##div:has(> span:has-text(Download WhatsApp for Windows))
 mail.google.com##.FOBRw-ano
 open.spotify.com##.CqXpLitKxRFvrULhC2kW.XVnlhCoiAYAlTBhaypmc.vMIJAT0lyLlwSMHYH9Kb
 www.google.com##.XPuBac
