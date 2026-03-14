@@ -9,7 +9,7 @@ youtube.com##ytd-watch-next-secondary-results-renderer
 youtube.com##ytd-feed-filter-chip-bar-renderer
 open.spotify.com##.Button-sc-1dqy6lx-0.dzIYeQ
 open.spotify.com##button[data-testid="upgrade-button"]
-web.whatsapp.com##.x1c4vz4f.xs83m0k.xdl72j9.x1g77sc7.x78zum5.xozqiw3.x1oa3qoh.x12fk4p8.xeuugli.x2lwn1j.x1qughib.x1q0g3np.x6s0dn4.xz9dl7a.x1a8lsjc.x10l6tqk.x1ey2m1c.xoz0ns6.xh8yej3.x1280gxy.x178xt8z.x13fuv20.xx42vgk
+web.whatsapp.com##section.x6egj2d:has-text(Download WhatsApp for Windows)
 mail.google.com##.FOBRw-ano
 open.spotify.com##.CqXpLitKxRFvrULhC2kW.XVnlhCoiAYAlTBhaypmc.vMIJAT0lyLlwSMHYH9Kb
 www.google.com##.XPuBac
