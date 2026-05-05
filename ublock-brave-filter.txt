@@ -6,6 +6,7 @@
 
 youtube.com##ytd-watch-next-secondary-results-renderer
 youtube.com##ytd-feed-filter-chip-bar-renderer
+youtube.com###menu
 open.spotify.com##.Button-sc-1dqy6lx-0.dzIYeQ
 open.spotify.com##button[data-testid="upgrade-button"]
 web.whatsapp.com##span:has-text(Get WhatsApp for Windows):upward(2)
@@ -20,4 +21,3 @@ mangadex.org##.md\:flex-grow.rounded-lg.drop-shadow.rounded.custom-opacity.relat
 gemini.google.com##.upsell-label.gds-label-m.ng-tns-c3813137085-2.ng-trigger.ng-trigger-labelEnterLeaveAnimation.ng-star-inserted
 gemini.google.com##.ng-tns-c3813137085-2.gds-icon-s.ng-star-inserted
 gemini.google.com##.mdc-button.mat-mdc-button-base.ng-tns-c3813137085-2.mdc-button--unelevated.mat-mdc-unelevated-button.gds-upsell-button.mat-unthemed
-youtube.com##ytd-watch-metadata ytd-menu-renderer
