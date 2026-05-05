@@ -2,11 +2,11 @@
 ! Description: Blocks trash on many websites
 ! Author: 88Heker88
 ! Expires: 1 day
-! Version: 1.1.0
+! Version: 1.1.1
 
 youtube.com##ytd-watch-next-secondary-results-renderer
 youtube.com##ytd-feed-filter-chip-bar-renderer
-youtube.com###menu
+youtube.com###menu(visibility: hidden !important;)
 open.spotify.com##.Button-sc-1dqy6lx-0.dzIYeQ
 open.spotify.com##button[data-testid="upgrade-button"]
 web.whatsapp.com##span:has-text(Get WhatsApp for Windows):upward(2)
