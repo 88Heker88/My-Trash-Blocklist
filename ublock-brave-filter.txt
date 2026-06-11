@@ -2,7 +2,7 @@
 ! Description: Blocks trash on many websites
 ! Author: 88Heker88
 ! Expires: 1 day
-! Version: 1.1.3
+! Version: 1.1.4
 
 ! youtube.com##ytd-watch-next-secondary-results-renderer
 ! youtube.com##ytd-feed-filter-chip-bar-renderer
