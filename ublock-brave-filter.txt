@@ -7,7 +7,7 @@
 ! youtube.com##ytd-watch-next-secondary-results-renderer
 ! youtube.com##ytd-feed-filter-chip-bar-renderer
 ! www.youtube.com###menu
-#actions-inner [aria-label="Share"]
+www.youtube.com##actions-inner [aria-label="Share"]
 open.spotify.com##.Button-sc-1dqy6lx-0.dzIYeQ
 open.spotify.com##button[data-testid="upgrade-button"]
 web.whatsapp.com##span:has-text(Get WhatsApp for Windows):upward(2)
