@@ -8,6 +8,7 @@
 ! youtube.com##ytd-feed-filter-chip-bar-renderer
 ! www.youtube.com###menu
 www.youtube.com###actions-inner yt-button-view-model:not(:has([aria-label*="like" i])):not(:has([aria-label*="save" i])):not(:has([aria-label="More actions"]))
+m.youtube.com###actions-inner yt-button-view-model:not(:has([aria-label*="like" i])):not(:has([aria-label*="save" i])):not(:has([aria-label="More actions"]))
 open.spotify.com##.Button-sc-1dqy6lx-0.dzIYeQ
 open.spotify.com##button[data-testid="upgrade-button"]
 web.whatsapp.com##span:has-text(Get WhatsApp for Windows):upward(2)
